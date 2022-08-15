@@ -1,4 +1,3 @@
-Banco Delas 
 O banco Banco Delas é um banco moderno e eficiente, com vantagens exclusivas para clientes mulheres.
 Modele um sistema orientado a objetos para representar contas correntes em do Banco Delas seguindo os requisitos abaixo.
 1. Cada conta corrente pode ter um ou mais clientes como titular.
